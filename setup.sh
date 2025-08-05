@@ -93,7 +93,7 @@ git clone https://github.com/OpenRealms-MC/GameServer .
 echo "    - Removing .git history..."
 rm -rf .git
 echo "    - Downloading the latest Paper 1.21.8 JAR..."
-wget -O paper.jar https://api.papermc.io/v2/projects/paper/versions/1.21.8/builds/25/downloads/paper-1.21.8-25.jar
+wget -O paper.jar https://api.papermc.io/v2/projects/paper/versions/1.21.6/builds/48/downloads/paper-1.21.6-48.jar
 
 # --- Plugin Downloads ---
 echo "--> Downloading plugins for GameServer..."
